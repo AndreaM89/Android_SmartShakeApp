@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+   <PreferenceCategory android:title="@string/prefTitle">
+       <ListPreference
+           android:dialogTitle="@string/prefListTitle"
+           android:entries="@array/messaggi"
+           android:entryValues="@array/mex"
+           android:summary="@string/prefSummary"
+           android:title="Messaggi" >
+             
+       </ListPreference>
+
+       
+   </PreferenceCategory>
+
+</PreferenceScreen>

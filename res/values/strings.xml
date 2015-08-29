@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart shake</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="settings">"Menu Impostazioni" </string>
+    <string name="prefTitle">"Menu impostazioni " </string>
+    <string name="prefSummary">"Scegli messaggio da utilizzare " </string>
+    <string name="prefListTitle">"Messaggi disponibili:" </string>
+    <string name="insert">"Inserisci messaggio da inviare:" </string>
+    <string name="read">"Verrà inviato il seguente messaggio:" </string>
+    
+    
+    
+</resources>
